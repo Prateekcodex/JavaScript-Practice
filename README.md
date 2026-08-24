@@ -61,8 +61,4 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/0232-implement-queue-using-stacks) |
-## Queue
-|  |
-| ------- |
-| [0232-implement-queue-using-stacks](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
