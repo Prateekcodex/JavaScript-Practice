@@ -50,3 +50,19 @@ If you find a better approach, cleaner ES6 syntax, or a time complexity optimiza
 Happy Coding 🚀
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/0232-implement-queue-using-stacks) |
+<!---LeetCode Topics End-->
