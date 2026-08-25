@@ -69,4 +69,20 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
