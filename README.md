@@ -61,4 +61,12 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Array
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
