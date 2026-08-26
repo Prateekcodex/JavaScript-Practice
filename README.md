@@ -73,6 +73,7 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/0022-generate-parentheses) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +86,8 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
