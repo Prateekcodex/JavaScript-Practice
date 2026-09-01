@@ -64,10 +64,12 @@ Happy Coding 🚀
 ## Array
 |  |
 | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -90,4 +92,16 @@ Happy Coding 🚀
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prateekcodex/JavaScript-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
